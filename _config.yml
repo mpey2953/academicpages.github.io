@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🤖 Michael Peyer"
+title                    : "Michael's Homepage"
 title_separator          : "-"
 name                     : &name "Michael"
 description              : &description "personal description"
